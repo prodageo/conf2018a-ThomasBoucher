@@ -23,4 +23,7 @@ L'articheture microservices tient son origine dnas le fait qu'une application mo
 
 
 ## Architecture et facteur qualité
-...
+Pour l'architecture microservices:
+- Tolérance aux pannes: La tolérance aux pannes est améliorée du fait d'avoir plus de services indépendants, mais les erreurs sont plus diffiles à gérer.
+- Facilité de modification: Plus le nombre de ligne d'un projet est petit, plus le projet est maintenable. 
+- Interopérabilité: Ces microservices peuvent être exécutés dans n'importe quel environemment, sur différentes machines.
