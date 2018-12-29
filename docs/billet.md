@@ -19,7 +19,8 @@
 - Plan du support : pas de plan annoncé.
 
 ## Résumé
-...
+L'articheture microservices tient son origine dnas le fait qu'une application monolotique devient très difficillement maintenable dans le temps, ainsi que peu scalable. L'architecture microservice est à la mode en ce moment, et cette mode est accentuée par l'arrivée des conteneurs comme Docker. Beaucoup de solutions techniques sont disponibles pour mettre en place, mais la plupart d'entre elles sont lourdes et très couteuses à mettre en place. L'architecture microservices apporte donc sont lot de difficultés. Il devinet difficile de traiter les erreurs (si un service est HS par exemple, ou si la réponse attendue n'est pas la bonne) ou de proposer un service de logging global. On peut avoir un effet "boule de neige" si ces réglages ne sont pas bien fait. Tout doit être pensé et mis en place dès le premier jour, de même que l'automatisation pour déployer ces services correctement. C'est à ce moment là que les "migroservices" interviennent. A mi chemin entre le microservices et l'architecture monolitique, les migroservices" permettent aux développeurs de ne pas repenser entièrement leur façon de faire, en ayant un type d'architecture moins précis. F.Teychene précise que cette solution hybride serait donc moins couteurse et reviendrait à faire du monolithe modulaire. 
+
 
 ## Architecture et facteur qualité
 ...
